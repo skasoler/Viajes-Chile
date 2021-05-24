@@ -1,0 +1,30 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+.fav{
+    background-color: #239DBF;
+    font-size: 2em;
+}
+
+.card img{
+    height: 180px;
+}
+
+.card-body{
+    background-color: #239DBF;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+footer{
+    background-color: #239DBF;
+}
+.iconsfoot i{
+    font-size: 50px;
+    padding: 20px 20px;
+}
+.linea{
+    height: 1px;
+    background-color: #239DBF;
+}
